@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: grey;
+}
+/* Example of a CSS rule that changes the text color of an h3 tag */
+h1{
+  border: dashed 3px;
+}
+
+p{
+  color: white;
+}
+/* Place your work for Part 2 in the space below*/
+img{
+  width: 225px;
+}
+
+.secondPG{
+  background-color: black;
+}
